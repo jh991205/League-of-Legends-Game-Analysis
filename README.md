@@ -10,8 +10,7 @@ This project is an analysis of League of Legends game data to identify the facto
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Conclusion](#conclusion)
-- [Acknowledgments](#acknowledgments)
+- [License](#license)
 
 ## Introduction
 
