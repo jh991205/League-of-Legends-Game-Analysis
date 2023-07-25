@@ -79,6 +79,6 @@ To run the Jupyter Notebook and replicate the analysis, follow these steps:
 The results of the analysis will be presented in the Jupyter Notebook. This includes visualizations of important features, performance metrics of the models, and insights into which factors contribute most to winning conditions.
 
 ## License
-MIT License
+League of Legends Game Analysis is open-source and available under the MIT License.
 
 
